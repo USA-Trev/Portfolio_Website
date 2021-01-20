@@ -1,0 +1,76 @@
+{
+  "main": {
+    "name":"Trevor Evans",
+    "description":"Hello! I am a Data Engineer based in the PNW. I have spent several years obtaining my degrees and have developed a passion for working with data along the way. I am currently looking for work in the Greater Seattle Area",
+    "image":"profilepic.jpg",
+    "bio":"I leverage programming languages such as Python and C# to create data pipelines from raw data sources to big data stores. Additionally, I have experience developing Machine Learning solutions to answer business-oriented questions.",
+    "contactmessage":"If you're interested in hiring me or have any other enquiries feel free to send a message.",
+    "email": "trevorevans.site@gmail.com",
+    "phone": "(714) 336-9641",
+    "github":"https://github.com/USA-Trev",
+    "tableau":"https://public.tableau.com/profile/trevor.evans#!/",
+    "linkedin":"https://linkedin.com/in/t-e-in",
+    "address":{
+      "city":"Issaquah",
+      "state":"Washington",
+      "zip": "98029"
+    },
+    "website": "https://www.trevorevans.site",
+    "resumedownload":"/Data-Engineer-Resume.docx",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/t-e-in/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/USA-Trev",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Greenwich",
+        "degree":"Masters in Big Data and Business Intelligence",
+        "graduated":"September 2020",
+        "description":"Furthered developed Python, R, and SQL skills. Learned many facets of Big Data and Data Warehousing. Collected and cleaned multi-structured data in traditional SQL and NoSQL databases. Performed exploratory data analysis and created powerful Python visualizations."
+      },
+      {
+        "school":"University of Greenwich",
+        "degree":"Bachelors in Software Engineering",
+        "graduated":"July 2019",
+        "description":"Learned advanced programming concepts and employed best-practice techniques such as design patterns, component creation, and algorithm implementation while following development methodologies for object-oriented and functional mobile and desktop applications. Created several websites for fictional businesses. Studied the intracacies of computer system architectures and operating systems. Gained knowledge of programming/computing related math such as vectors, matrices, graph theory, probability, and differential & integral calculus."
+      }
+    ],
+    "work":[
+      {
+        "company":"Argos",
+        "title":"Data Science Intern",
+        "years":"May 2020 - September 2020",
+        "description":"Performed a machine learning algorithm comparison to determine which machine learning algorithm would best fit Argos's purpose. The algorithms compared in this work are Decision Tree, Random Forest, Naive Bayes, Support Vector Machine, Neural Network, Logistic Regression, Linear Discriminant Analysis, and K-Nearest Neighbor. The purpose was to predict when products in their catalog would no longer be commercially viable."
+      }
+    ],
+    "skills":[
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Exploratory Analysis",
+        "category":"Exploratory analysis of ChrisCo's 40 stores. Composed of 5 datafiles each containing metrics and data from every store.",
+        "image":"ChrisCo.png",
+        "url":"https://github.com/USA-Trev/COMP1800_CW"
+      },
+      {
+        "title":"Dashboard",
+        "category":"Dashboard showcasing various visualizations containing numerous metrics from the fictional dataset UK-Bank-Customers.",
+        "image":"UK-Bank-Customers.png",
+        "url":"https://public.tableau.com/profile/trevor.evans#!/vizhome/UK-Bank-Customers-Story_15945794036970/UKBankCustomersStory/UKBankCustomersDB"
+      }
+    ]
+  }
+}
